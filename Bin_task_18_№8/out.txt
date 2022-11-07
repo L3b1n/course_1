@@ -1,0 +1,20 @@
+<KSquare>
+  a = 240
+  is_visible = true, x = 140, y = 290
+  angle = 0, koef = 1
+<end of KSquare>
+<KSquare>
+  a = 240
+  is_visible = false, x = 140, y = 290
+  angle = 0, koef = 1
+<end of KSquare>
+<KSquare>
+  a = 240
+  is_visible = true, x = 200, y = 400
+  angle = 0, koef = 1
+<end of KSquare>
+<KSquare>
+  a = 240
+  is_visible = true, x = 200, y = 400
+  angle = 0, koef = 1
+<end of KSquare>
