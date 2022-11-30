@@ -1,2 +1,2 @@
 # course_1
-Labs of first course
+Labs from the first course of studying in university.
