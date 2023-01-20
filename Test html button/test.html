@@ -1,0 +1,29 @@
+<style>
+.del { display: none; }
+.del:not(:checked) + label + * { display: none; }
+.del:not(:checked) + label,
+.del:checked + label {
+display: inline-block;
+padding: 2px 10px;
+border-radius: 2px;
+color: #fff;
+background: #4e6473;
+cursor: pointer;
+}
+.del:checked + label {
+background: #e36443;
+}
+</style>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <title>Mogo</title>
+</head>
+<input type="checkbox" id="raz" class="del" checked="checked"/>
+<label for="raz" class="del">нажать</label>
+<div>исчезающий текст</div>
+</html>
