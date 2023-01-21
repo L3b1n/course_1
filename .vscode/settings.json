@@ -97,5 +97,6 @@
     "**/.*/**",
     "**/.vscode",
     "**/.vscode/**"
-  ]
+  ],
+  "C_Cpp.errorSquiggles": "disabled"
 }
