@@ -1,0 +1,1 @@
+# Self solving rubiks cube first sample
