@@ -1,0 +1,13 @@
+Наименование товара  Секция  Цена
+Nokia  Phones  7500
+SamsungAge  SmartPhones  1000
+
+Наименование товара  Секция  Количество
+SamsungAge  SmartPhones  4500
+Apple  SmartPhones  5000
+
+
+Nokia  Phones  7500
+SamsungAge  SmartPhones  1000
+Apple  SmartPhones  5000
+
