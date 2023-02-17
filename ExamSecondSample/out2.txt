@@ -1,0 +1,8 @@
+Наименование товара  Секция  Цена
+SamsungAge  SmartPhones  7
+Apple  SmartPhones  5
+
+Наименование товара  Секция  Количество
+Nokia  SmartPhones  4
+Apple  SmartPhones  8
+
