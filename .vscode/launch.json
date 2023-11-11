@@ -10,7 +10,7 @@
       "externalConsole": false,
       "cwd": "/Users/leonid/Desktop/course_1/Bin_task_20_all",
       "program": "/Users/leonid/Desktop/course_1/Bin_task_20_all/build/Debug/outDebug",
-      "MIMode": "gdb",
+      "MIMode": "gdb", 
       "miDebuggerPath": "gdb"
     }
   ]
