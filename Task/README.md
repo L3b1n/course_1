@@ -1,0 +1,1 @@
+# Task from the contest
